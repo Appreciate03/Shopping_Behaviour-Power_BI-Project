@@ -44,21 +44,21 @@ The dashboard uses DAX to create business metrics and calculated columns that im
 
 1. Total Revenue
 
-![total revenue](assets\total_revenue.png)
+![total revenue](assets/total_revenue.png)
 
 - **Purpose:** To calculate the total revenue generated from all customer purchases.
 - **Business Value:** Serves as the primary KPI used throughout the dashboard to evaluate overall business performance.
 
 2. Discount Status (Calculated Column)
 
-![discount status](assets\SWITCH_Statement.png)
+![discount status](assets/SWITCH_Statement.png)
 
 - **Purpose:** Creates a user-friendly category that identifies whether a transaction was made using promotional discounts.
 - **Business Value:** Simplifies the comparison of discounted versus full price purchases, helping evaluate the effectiveness of promotional campaigns and pricing strategies.
 
 3. Age Group (Calculated Column)
 
-![age group](assets\IF_Statement.png)
+![age group](assets/IF_Statement.png)
 
 - **Purpose:** Creates customer age categories based on their age, making it easier to analyse purchasing behaviour across different demographic groups.
 - **Business Value:** This calculated column enables customer segmentation by age group, allowing the business to identify which demographic contributes the most to revenue. These insights support targeted marketing campaigns, personalised promotions and product strategies tailored to different customer segments.
@@ -123,7 +123,7 @@ This dashboard was created to turn sales data into clear, filterable insights fo
 
 **2. Deep Analysis**  
 
-![power_bi_deep_dive](assets\power_bi_deep_dive.png) 
+![power_bi_deep_dive](assets/power_bi_deep_dive.png) 
 
 1. How frequently do customers make purchases?
 
